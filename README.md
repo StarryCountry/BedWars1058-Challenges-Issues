@@ -1,2 +1,2 @@
-# BedWars1058-Challenges-Issues
-Challenges Addon for BedWars1058
+# BedWars1058 Challenges Addon
+This project is currently used as issue reporter only.
